@@ -1,0 +1,11 @@
+allprojects {
+
+  apply plugin: 'java'
+
+}
+
+
+
+project(':ru.anplak.ultrasgm.team.management.rest'){}
+
+
